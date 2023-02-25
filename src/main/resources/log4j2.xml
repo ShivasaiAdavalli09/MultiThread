@@ -4,6 +4,7 @@
         <Property name="APP_LOG_ROOT">c:/temp</Property>
     </Properties>
 
+
     <Appenders>
         <Console name="Console" target="SYSTEM_OUT" follow="true">
             <PatternLayout pattern="${LOG_PATTERN}" />
