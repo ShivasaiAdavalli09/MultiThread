@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-future
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: shiva
+Implementation-Vendor-Id: com.techshard.future
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-future
+Created-By: Maven Integration for Eclipse
+
